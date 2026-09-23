@@ -2,7 +2,6 @@
 
 ## CloudOps360
 
-https://github.com/user-attachments/assets/d1d46807-99aa-4ac8-823f-de9a04799432
 
 **AWS Cloud Operations, Troubleshooting & Automated Cost Optimization Platform**
 
