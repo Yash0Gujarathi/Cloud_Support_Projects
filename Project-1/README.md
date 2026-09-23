@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/a20586e4-f2d2-4d96-a8fe-9a25b2157387
 
-# CloudOps Guardian AI
+# Applied AI for Cloud Monitoring and Automation
 ## AI-Driven Self-Healing Cloud Operations, Vulnerability Management & Security Hardening Platform
 
 **Document type:** Project Design + Build Blueprint  
