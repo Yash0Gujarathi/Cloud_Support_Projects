@@ -4,7 +4,7 @@
 
 ## 🎥 Project Demo
 
-<video src="./Screen%20Recording%202026-07-26%20164931.mp4" controls width="900"></video>
+https://github.com/user-attachments/assets/9467b0ed-d9bd-44ed-b59f-fd2c98958bb4
 
 **AWS Cloud Operations, Troubleshooting & Automated Cost Optimization Platform**
 
