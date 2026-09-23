@@ -1,5 +1,4 @@
-# Hell Guard - 
-## VPC (Production and Operational) security and monitoring Dashboard 
+# Hell Guard - VPC (Production and Operational) security and monitoring Dashboard 
 
 https://github.com/user-attachments/assets/a20586e4-f2d2-4d96-a8fe-9a25b2157387
 
