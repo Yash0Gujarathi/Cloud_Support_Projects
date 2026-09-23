@@ -2,6 +2,9 @@
 
 ## CloudOps360
 
+## 🎥 Project Demo
+
+<video src="./Screen%20Recording%202026-07-26%20164931.mp4" controls width="900"></video>
 
 **AWS Cloud Operations, Troubleshooting & Automated Cost Optimization Platform**
 
