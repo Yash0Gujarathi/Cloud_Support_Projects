@@ -1,4 +1,4 @@
-# Cloud Audit and Insigt - Command Center
+# Cloud Audit and Insigth - Command Center
 ## Motive: Collect and Analyse the logs
 
 https://github.com/user-attachments/assets/bed5933a-416c-41af-aeaf-907d4a1f5bd2
